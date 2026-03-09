@@ -1,1 +1,17 @@
-🎬 Directing my own story through Code and Circuits.Currently in Episode Two: SUTD University Life. I am a developer and designer obsessed with building extraordinary things—from Ion Propulsion models to 3D LiDAR Scanners.📺 Technical SkillsetSoftware: Python • SQL • C++ • Competitive Programming (Global Rank 54).Hardware: ESP32 (incl. CAM) • Arduino • LoRa • LiDAR • GPS • RFID.Sensors: MPU6050 (Gyro) • BME280 (Weather) • HMC5883L (Compass) • MQ2 (Smoke).Design: 3D Modeling (CAD) • Video Editing • Graphic Design • UI/UX.🏆 Highlights & AccoladesGlobal Rank 54 @ International Informatics Olympiad.Global Rank 70 @ Unified Cyber Olympiad.SUTD USTEP Scholar ('29) | Focus on Tech Entrepreneurship.100% Scholarship @ FIITJEE (Mathematical Aptitude).🛠️ Featured Projects3D LiDAR Scanner (SUTD IDEA Project): High-precision spatial mapping using ToF sensors.Gyrometric Digital Twin: Real-time orientation tracking using MPU6050 and Python.Dual-Mode Autonomous Rover: Bluetooth-controlled vehicle with IR-based line-following and ultrasonic safety interrupts."I want to build things that feel just as extraordinary as Iron Man’s suits." Goal: Reaching the $10k/month milestone by engineering the next generation of interactive AI and robotics.
+Hey there! 👋
+I'm Parth, a design engineer based in Singapore.
+
+I design and build whatever I can imagine—from Ion Propulsion systems to 3D LiDAR scanners.
+
+If an idea pops into my head, chances are I'll build it and ship it.
+
+My main tech stack is Python, SQL, C++, and Embedded Systems (Arduino/ESP32). My favorite tools are CAD (3D Modeling), Premiere Pro, and my breadboard.
+I've got a bunch of pinned projects, but my favorite is the 3D LiDAR Scanner.I've built over 20 public repos, but privately... I've prototype-built more than 30 different modules and systems at this point.
+
+If you want to see my story, my YouTube channel is coming soon!
+
+Fun Facts:
+I am a USTEP Scholar at SUTD ('29).
+I ranked 54th in the World in the International Informatics Olympiad.
+I aim to build something as extraordinary as an Iron Man suit.
+Hobbies: Football, Gym, Squash, Badmintin and Building Things.
